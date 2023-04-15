@@ -5,7 +5,16 @@
 
  <p>This page contains links on how to remove yourself from websites that contain your information, that you may have found through the use of links on my repos.
  </p>
- <p>You can also use paid for services, some do also offer free opt-out blogs.</p>
+ <p>You cna use paid for services some do also offer free opt-out blogs. There is also a link to, Just Delete Me, which has A-Z links to websites and their data removal procedures. Just Delete Me, also ranks each site on how difficult it is to remove your data.</p>
+<br></br>
+<ul>
+    <table>
+        <tr>
+            <td>Just Delete Me</td>
+        </tr>
+    </table>
+    <li><a href="https://justdeleteme.xyz/">Just Delete Me</a></li>
+</ul>
 <br></br>
 <ul>
     <table>
@@ -19,6 +28,7 @@
     <li><a href="https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/">PeekYou</a></li>
     <li><a href="https://www.intelius.com/optout">Zaba Search</a></li>
 </ul>
+<br></br>
 <ul>
     <table>
         <tr>
