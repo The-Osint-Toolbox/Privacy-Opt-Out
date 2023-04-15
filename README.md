@@ -26,6 +26,7 @@
     <li><a href="https://www.192.com/c01/new-request/">192.com</a></li>
     <li><a href="https://www.locatefamily.com/removal2.html">Locate Family</a></li>
     <li><a href="https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/">PeekYou</a></li>
+    <li><a href="https://www.ukphonebook.com/remove-me">Ukphonebook</a></li>
     <li><a href="https://www.intelius.com/optout">Zaba Search</a></li>
 </ul>
 <br></br>
