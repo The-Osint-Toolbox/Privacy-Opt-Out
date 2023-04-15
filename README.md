@@ -3,8 +3,7 @@
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
 
- <p>This page contains links on how to remove data from websites that contain your information, that you may have found through the People Search repo.
- </p>
+ <p>This page contains links on how to remove data from websites that contain your information, that you may have found through the People Search repo. Not all the sites are transparent when it comes to removing your data.</p>
  <p>You can use paid for services some do also offer free opt-out blogs. There is also a link to, Just Delete Me, which has A-Z links to websites and their data removal procedures. Just Delete Me, also ranks each site on how difficult it is to remove your data.</p>
 <br></br>
 <ul>
@@ -30,6 +29,8 @@
     <li><a href="https://www.genesreunited.co.uk/help/contact/support">Genes Reunited</a></li>
     <li><a href="https://www.locatefamily.com/removal2.html">Locate Family</a></li>
     <li><a href="https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/">PeekYou</a></li>
+    <li><a href="https://www.social-searcher.com/support/">Social Searcher</a></li>
+    <li><a href="https://www.spytox.com/opt_out">Spytox</a></li>
     <li><a href="https://www.ukphonebook.com/remove-me">Ukphonebook</a></li>
     <li><a href="https://www.intelius.com/optout">Zaba Search</a></li>
 </ul>
