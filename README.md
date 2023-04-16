@@ -11,7 +11,12 @@
             <td>Just Delete Me</td>
         </tr>
     </table>
-    <li><a href="https://justdeleteme.xyz/">Just Delete Me</a></li>
+    <li><a href="https://justdeleteme.xyz/">Just Delete Me</a></li>A directory of direct links to delete your account from web services.
+</ul>
+<br></br>
+<ul>
+    <li><a href="https://justwhatsthedata.github.io/">Just Whats The Data</a></li>A directory of information for you to acknowledge the amount of data that web services gather from you.
+    <li><a href="https://justgetmydata.com/">Just Get My Data</a></li>A directory of direct links for you to obtain your data from web services.
 </ul>
 <br></br>
 <ul>
