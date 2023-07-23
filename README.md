@@ -17,6 +17,7 @@
     <li><a href="https://www.fastpeoplesearch.com/removal">Fast People Search</a></li>
     <li><a href="https://foller.me/do-not-sell">Foller</a></li>
     <li><a href="https://www.genesreunited.co.uk/help/contact/support">Genes Reunited</a></li>
+    <li><a href="https://golookup.com/support/contact-us">Go Lookup</a></li>
     <li><a href="https://www.locatefamily.com/removal2.html">Locate Family</a></li>
     <li><a href="https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/">PeekYou</a></li>
     <li><a href="https://www.social-searcher.com/support/">Social Searcher</a></li>
