@@ -23,6 +23,7 @@
     <li><a href="https://www.social-searcher.com/support/">Social Searcher</a></li>
     <li><a href="https://www.spytox.com/opt_out">Spytox</a></li>
     <li><a href="https://thatsthem.com/optout">Thats Them</a></li>
+    <li><a href="https://www.truecaller.com/unlisting">Truecaller</a></li>
     <li><a href="https://www.ukphonebook.com/remove-me">Ukphonebook</a></li>
     <li><a href="https://www.intelius.com/optout">Zaba Search</a></li>
 </ul>
