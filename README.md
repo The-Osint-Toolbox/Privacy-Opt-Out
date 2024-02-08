@@ -36,6 +36,7 @@
     </table>
     <li><a href="https://joindeleteme.com/blog/opt-out-guides/">Delete Me</a></li>
     <li><a href="https://blog.incogni.com/opt-out-guides/">Incogni</a></li>
+    <li><a href="https://monitor.mozilla.org/?ref=news.itsfoss.com">Mozilla Monitor</a></li>
 </ul>
 <br></br>
 <ul>
