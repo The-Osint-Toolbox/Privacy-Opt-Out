@@ -1,6 +1,6 @@
 # Privacy-Opt-Out
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
  <p>This page contains links on how to remove data from websites that contain your information, that you may have found through the People Search Repository. Not all the sites are transparent when it comes to removing your data.</p>
  <p>You can use paid for services some do also offer free opt-out blogs. There is also a link to, Just Delete Me, which has A-Z links to websites and their data removal procedures. Just Delete Me, also ranks each site on how difficult it is to remove your data.</p>
