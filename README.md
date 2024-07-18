@@ -11,9 +11,10 @@
             <td>Self Opt-Out</td>
         </tr>
     </table>
+    <li><a href="https://www.192.com/c01/new-request/">192.com</a></li>
     <li><a href="https://www.acxiom.com/optout/">Acxiom</a></li>
     <li><a href="https://www.bt.com/help/landline/calling-features-and-security/how-do-i-sign-up-to-ex-directory-services-">BT Phonebook</a></li>
-    <li><a href="https://www.192.com/c01/new-request/">192.com</a></li>
+    <li><a href="https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List">Data Broker Opt-Out List</a></li>
     <li><a href="https://www.familysearch.org/en/help/helpcenter/article/can-i-request-to-remove-the-name-of-a-living-person-from-historical-records">Family Search</a></li>
     <li><a href="https://www.fastpeoplesearch.com/removal">Fast People Search</a></li>
     <li><a href="https://foller.me/do-not-sell">Foller</a></li>
