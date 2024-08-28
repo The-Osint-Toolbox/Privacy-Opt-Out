@@ -33,7 +33,7 @@
     <li><a href="https://thatsthem.com/optout">Thats Them</a></li>
     <li><a href="https://www.truecaller.com/unlisting">Truecaller</a></li>
     <li><a href="https://www.ukphonebook.com/remove-me">Ukphonebook</a></li>
-    <li><a href="https://yourdigitalrights.org/#Extension">Your Digital Rights</a></li>
+    <li><a href="https://yourdigitalrights.org/">Your Digital Rights</a></li>
     <li><a href="https://www.intelius.com/optout">Zaba Search</a></li>
 </ul>
 <br></br>
