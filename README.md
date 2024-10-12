@@ -25,6 +25,7 @@
     <li><a href="https://www.intelius.com/privacy-center">Intelius</a></li>
     <li><a href="https://inteltechniques.com/links.html">IntelTechniques</a></li>
     <li><a href="https://golookup.com/support/contact-us">Go Lookup</a></li>
+    <li><a href="https://support.google.com/websearch/answer/12719076">Google Removal</a></li>
     <li><a href="https://www.locatefamily.com/removal2.html">Locate Family</a></li>
     <li><a href="https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/">PeekYou</a></li>
     <li><a href="https://suppression.peopleconnect.us/login">People Connect</a></li>
