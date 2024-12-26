@@ -11,31 +11,32 @@
             <td>Self Opt-Out</td>
         </tr>
     </table>
-    <li><a href="https://www.192.com/c01/new-request/">192.com</a></li>
-    <li><a href="https://www.acxiom.com/optout/">Acxiom</a></li>
-    <li><a href="https://www.bt.com/help/landline/calling-features-and-security/how-do-i-sign-up-to-ex-directory-services-">BT Phonebook</a></li>
-    <li><a href="https://consciousdigital.org/">Conscious Digital</a></li>
-    <li><a href="https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List">Data Broker Opt-Out List</a></li>
-    <li><a href="https://databrokerswatch.org/">Data Broker Watch</a></li>
-    <li><a href="https://www.familysearch.org/en/help/helpcenter/article/can-i-request-to-remove-the-name-of-a-living-person-from-historical-records">Family Search</a></li>
-    <li><a href="https://www.fastpeoplesearch.com/removal">Fast People Search</a></li>
-    <li><a href="https://firewallsdontstopdragons.com/osint-reconnaissance/">Firewalls Don't Stop Dragons</a></li>
-    <li><a href="https://foller.me/do-not-sell">Foller</a></li>
-    <li><a href="https://www.genesreunited.co.uk/help/contact/support">Genes Reunited</a></li>
-    <li><a href="https://www.intelius.com/privacy-center">Intelius</a></li>
-    <li><a href="https://inteltechniques.com/links.html">IntelTechniques</a></li>
-    <li><a href="https://golookup.com/support/contact-us">Go Lookup</a></li>
-    <li><a href="https://support.google.com/websearch/answer/12719076">Google Removal</a></li>
-    <li><a href="https://www.locatefamily.com/removal2.html">Locate Family</a></li>
-    <li><a href="https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/">PeekYou</a></li>
-    <li><a href="https://suppression.peopleconnect.us/login">People Connect</a></li>
-    <li><a href="https://www.social-searcher.com/support/">Social Searcher</a></li>
-    <li><a href="https://www.spytox.com/opt_out">Spytox</a></li>
-    <li><a href="https://thatsthem.com/optout">Thats Them</a></li>
-    <li><a href="https://www.truecaller.com/unlisting">Truecaller</a></li>
-    <li><a href="https://www.ukphonebook.com/remove-me">Ukphonebook</a></li>
-    <li><a href="https://yourdigitalrights.org/">Your Digital Rights</a></li>
-    <li><a href="https://www.intelius.com/optout">Zaba Search</a></li>
+     <li><a href="https://www.192.com/c01/new-request/">192.com</a></li>
+     <li><a href="https://www.acxiom.com/optout/">Acxiom</a></li>
+     <li><a href="https://www.bt.com/help/landline/calling-features-and-security/how-do-i-sign-up-to-ex-directory-services-">BT Phonebook</a></li>
+     <li><a href="https://consciousdigital.org/">Conscious Digital</a></li>
+     <li><a href="https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List">Data Broker Opt-Out List</a></li>
+     <li><a href="https://databrokerswatch.org/">Data Broker Watch</a></li>
+     <li><a href="https://www.familysearch.org/en/help/helpcenter/article/can-i-request-to-remove-the-name-of-a-living-person-from-historical-records">Family Search</a></li>
+     <li><a href="https://www.fastpeoplesearch.com/removal">Fast People Search</a></li>
+     <li><a href="https://firewallsdontstopdragons.com/osint-reconnaissance/">Firewalls Don't Stop Dragons</a></li>
+     <li><a href="https://foller.me/do-not-sell">Foller</a></li>
+     <li><a href="https://www.genesreunited.co.uk/help/contact/support">Genes Reunited</a></li>
+     <li><a href="https://support.google.com/websearch/answer/12719076">Google Results About You</a></li>
+     <li><a href="https://www.intelius.com/privacy-center">Intelius</a></li>
+     <li><a href="https://inteltechniques.com/links.html">IntelTechniques</a></li>
+     <li><a href="https://golookup.com/support/contact-us">Go Lookup</a></li>
+     <li><a href="https://support.google.com/websearch/answer/12719076">Google Removal</a></li>
+     <li><a href="https://www.locatefamily.com/removal2.html">Locate Family</a></li>
+     <li><a href="https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/">PeekYou</a></li>
+     <li><a href="https://suppression.peopleconnect.us/login">People Connect</a></li>
+     <li><a href="https://www.social-searcher.com/support/">Social Searcher</a></li>
+     <li><a href="https://www.spytox.com/opt_out">Spytox</a></li>
+     <li><a href="https://thatsthem.com/optout">Thats Them</a></li>
+     <li><a href="https://www.truecaller.com/unlisting">Truecaller</a></li>
+     <li><a href="https://www.ukphonebook.com/remove-me">Ukphonebook</a></li>
+     <li><a href="https://yourdigitalrights.org/">Your Digital Rights</a></li>
+     <li><a href="https://www.intelius.com/optout">Zaba Search</a></li>
 </ul>
 <br></br>
 <ul>
@@ -44,11 +45,11 @@
             <td>Commercial Opt-Out</td>
         </tr>
     </table>
-    <li><a href="https://joindeleteme.com/blog/opt-out-guides/">Delete Me</a></li>
-    <li><a href="https://easyoptouts.com/">Easy Opt Outs</a></li>
-    <li><a href="https://blog.incogni.com/opt-out-guides/">Incogni</a></li>
-    <li><a href="https://monitor.mozilla.org/?ref=news.itsfoss.com">Mozilla Monitor</a></li>
-    <li><a href="https://www.optery.com/opt-out-guides/">Optery</a></li>
+     <li><a href="https://joindeleteme.com/blog/opt-out-guides/">Delete Me</a></li>
+     <li><a href="https://easyoptouts.com/">Easy Opt Outs</a></li>
+     <li><a href="https://blog.incogni.com/opt-out-guides/">Incogni</a></li>
+     <li><a href="https://monitor.mozilla.org/?ref=news.itsfoss.com">Mozilla Monitor</a></li>
+     <li><a href="https://www.optery.com/opt-out-guides/">Optery</a></li>
 </ul>
 <br></br>
 <ul>
