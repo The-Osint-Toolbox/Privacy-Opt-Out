@@ -50,6 +50,7 @@
      <li><a href="https://blog.incogni.com/opt-out-guides/">Incogni</a></li>
      <li><a href="https://monitor.mozilla.org/?ref=news.itsfoss.com">Mozilla Monitor</a></li>
      <li><a href="https://www.optery.com/opt-out-guides/">Optery</a></li>
+     <li><a href="https://redact.dev/">Redact</a></li>
 </ul>
 <br></br>
 <ul>
