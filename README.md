@@ -21,6 +21,7 @@
             <td>Self Opt-Out</td>
         </tr>
     </table>
+    <ul>
      <li><a href="https://www.192.com/c01/new-request/">192.com</a></li>
      <li><a href="https://www.acxiom.com/optout/">Acxiom</a></li>
      <li><a href="https://www.bt.com/help/landline/calling-features-and-security/how-do-i-sign-up-to-ex-directory-services-">BT Phonebook</a></li>
