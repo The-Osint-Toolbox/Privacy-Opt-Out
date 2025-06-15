@@ -6,6 +6,17 @@
  <p>You can use paid for services some do also offer free opt-out blogs. There is also a link to, Just Delete Me, which has A-Z links to websites and their data removal procedures. Just Delete Me, also ranks each site on how difficult it is to remove your data.</p>
 <br></br>
 <ul>
+   <table>
+        <tr>
+            <td>Blogs</td>
+        </tr>
+    </table>
+    <ul>
+        <li><a href="https://firewallsdontstopdragons.com/osint-reconnaissance/">Data Removal Part I</a></li>
+        <li><a href="https://firewallsdontstopdragons.com/osint-remediation/">Data Removal Part II</a></li>
+        <li><a href="https://firewallsdontstopdragons.com/osint-final-steps/">Data Removal Part III</a></li>
+    </ul>
+   <br></br>
     <table>
         <tr>
             <td>Self Opt-Out</td>
