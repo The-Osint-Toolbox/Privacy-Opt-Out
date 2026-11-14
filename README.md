@@ -58,6 +58,7 @@
     </table>
      <li><a href="https://joindeleteme.com/blog/opt-out-guides/">Delete Me</a></li>
      <li><a href="https://easyoptouts.com/">Easy Opt Outs</a></li>
+     <li><a href="https://www.ghostvault.live/data-brokers">GhostVault</a></li>
      <li><a href="https://blog.incogni.com/opt-out-guides/">Incogni</a></li>
      <li><a href="https://monitor.mozilla.org/?ref=news.itsfoss.com">Mozilla Monitor</a></li>
      <li><a href="https://www.optery.com/opt-out-guides/">Optery</a></li>
