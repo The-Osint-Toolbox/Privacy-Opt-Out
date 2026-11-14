@@ -41,6 +41,7 @@
      <li><a href="https://www.locatefamily.com/removal2.html">Locate Family</a></li>
      <li><a href="https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/">PeekYou</a></li>
      <li><a href="https://suppression.peopleconnect.us/login">People Connect</a></li>
+     <li><a href="https://recordwell.ai/opt-out">Recordwell (free removal from Recordwell)</a></li>
      <li><a href="https://www.social-searcher.com/support/">Social Searcher</a></li>
      <li><a href="https://www.spytox.com/opt_out">Spytox</a></li>
      <li><a href="https://thatsthem.com/optout">Thats Them</a></li>
